@@ -16,7 +16,7 @@ A simple and free online QR Code Generator built using **HTML**, **TailwindCSS**
 
 ## 📸 Demo
 
-![QR Code Generator Screenshot](img/demo.png)
+![QR Code Generator Screenshot](img/Demo.png)
 
 ---
 
